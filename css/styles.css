@@ -260,7 +260,7 @@ img {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 72px 24px;
+  gap: 48px 24px;
 }
 .portfolio-card {
   width: calc((100% - 48px) / 3);
