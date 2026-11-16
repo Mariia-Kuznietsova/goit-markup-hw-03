@@ -1,0 +1,22 @@
+.team {
+  background-color: #f4f4fd;
+}
+.team-title {
+}
+.team-list {
+}
+.team-member {
+  background-color: #fff;
+}
+.team-member-photo {
+}
+.team-member-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  color: #2e2f42;
+}
+.team-member-title {
+  text-align: center;
+}
